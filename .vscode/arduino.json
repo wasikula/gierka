@@ -1,0 +1,5 @@
+{
+    "board": "esp32:esp32:esp32doit-devkit-v1",
+    "sketch": "gierka.ino",
+    "configuration": "FlashFreq=80,UploadSpeed=115200,DebugLevel=none"
+}
